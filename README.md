@@ -1,6 +1,7 @@
 # DjangoRestFramework API WireFrame
 
-# API Use Cases (to be decided ...)
+# API Use Cases 
+    to be decided
 
 ## Objective : Data Aggregation & Provision:
 
