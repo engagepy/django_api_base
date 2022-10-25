@@ -3,11 +3,14 @@
 # API Use Cases 
 >    to be decided
 
-## Objective : Data Aggregation & Provision:
+## Objective : 
+    Data Aggregation & Provision:
 
-## Pilot Market = PyDelhi Developers 
+## Pilot Market : 
+    PyDelhi Developers 
 
-## Pilot Test Date = 1 Jan, 2023
+## Pilot Test Date :
+    1 Jan, 2023
 
 ### Key Features: 
 - (to be decided)
