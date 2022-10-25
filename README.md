@@ -14,19 +14,18 @@
 
 ### Key Features: 
 - (to be decided)
-- (to be decided)
-- (to be decided)
+
 
 
 ### Functionality 1: 
-> In Progress
+- In Progress
 
 
 ### Functionality 2:
-> In Progress
+- In Progress
 
 
 
 ### Functionality 3:
-> In Progress
+- In Progress
 
